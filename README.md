@@ -27,7 +27,7 @@ _Don't use this to take revenge_<br />
 ## Usage
 Clone it by
 ```bash
-git clone https://github.com/mikiadarsh25/XLR8_BOMBER
+git clone https://github.com/gou765/XLR8_BOMBER
 ```
 Go to the Xlr8 Directory
 ```bash
